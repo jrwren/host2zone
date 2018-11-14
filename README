@@ -1,0 +1,2 @@
+# host2zone
+A little script I whipped up real quick to turn a hosts file into a bind dns zone. I have written these in perl, python, and probably awk over the years, but I'm tired of writing them so I'm dropping this here.
